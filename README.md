@@ -10,4 +10,4 @@
   - ``done``
 
 - Output:
-  ![[output pic]](output.jpg)
+  ![[output pic]](Output.jpg)
