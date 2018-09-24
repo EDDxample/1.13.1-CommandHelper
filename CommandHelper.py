@@ -98,7 +98,7 @@ for c, command in enumerate(commands):
     print('private static int f' + str(c) + param + ' {return 1;}\n')
 
 
-""" SOME TEST
+""" SOME TESTS
 /tps
 /tps float_newTps
 /tps warp int_ticks
